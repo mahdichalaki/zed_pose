@@ -1,4 +1,4 @@
-# ZED Pose Package
+# ZED Pose Detection and Logging ROS2 Package
 
 This repository contains a ROS2 package designed for working with the **ZED camera** by StereoLabs, providing **computer vision-based pose estimation** and **data logging capabilities**. The package includes two primary nodes:
 
