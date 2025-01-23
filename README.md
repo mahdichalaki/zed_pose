@@ -5,6 +5,11 @@ This repository contains a ROS2 package designed for working with the **ZED came
 1. **`zed_pose` Node** – Handles computer vision tasks such as body tracking and angle calculation.
 2. **`pose_logger` Node** – Logs pose, force/torque, and odometry data to CSV files for further analysis.
 
+<p align="center">
+  <img src="Detected_Pose.png" alt="Detected_Pose" width="500">
+</p>
+
+
 ---
 
 ## Features
@@ -27,7 +32,7 @@ This repository contains a ROS2 package designed for working with the **ZED came
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mahdichalaki/zed_pose
    cd zed_pose
 
 2. **Install Dependencies:** Ensure you have the necessary ROS2 and StereoLabs ZED SDK installed:
